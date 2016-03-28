@@ -14,9 +14,9 @@
 
 Introducing basic concepts in statistics: experimental design,
 randomisation, technical and biological variation, power analysis,
-hypthesis testing, confidence interval, what is a p-value, false
+hypothesis testing, confidence interval, what is a p-value, false
 discovery rate, multiple testing adjustment, Bayesian statistics,
-dangers of uninformed statistical pratice.
+dangers of uninformed statistical practice.
 
 ### Tools, databases and resources covered (if applicable)
 
